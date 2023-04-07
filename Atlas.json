@@ -1,0 +1,8 @@
+{
+    "name": "Hexated providers repository (Backup)",
+    "description": "Hexated Repository",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://raw.githubusercontent.com/cozian1/private-anime-repos/main/atlas-repo.json"
+    ]
+  }
