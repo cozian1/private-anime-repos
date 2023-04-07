@@ -1,6 +1,6 @@
 {
-    "name": "Hexated providers repository (Backup)",
-    "description": "Hexated Repository",
+    "name": "World Atlas",
+    "description": "All Hindi English Repos",
     "manifestVersion": 1,
     "pluginLists": [
       "https://raw.githubusercontent.com/cozian1/private-anime-repos/main/atlas-repo.json"
